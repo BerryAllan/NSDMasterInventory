@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\titom\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_NSDMasterInventory.-1732649322.00" t="ExcludeRecursive" />
+    <e p="C:\Users\titom\RiderProjects\NSDMasterInventory" t="IncludeFlat">
+      <e p="NSDMasterInventory" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="comparers" t="Include">
+          <e p="Sorter.cs" t="Include" />
+        </e>
+        <e p="io" t="Include">
+          <e p="BarcodeGenerator.cs" t="Include" />
+          <e p="ConfigUtil.cs" t="Include" />
+          <e p="Prop.cs" t="Include" />
+        </e>
+        <e p="item" t="Include">
+          <e p="Item.cs" t="Include" />
+        </e>
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="NSDMasterInventory.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="pete.ico" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="resources" t="Include">
+          <e p="prefabs" t="Include">
+            <e p="Default" t="Include">
+              <e p="Fields.properties" t="Include" />
+              <e p="SortBys.properties" t="Include" />
+              <e p="Types.properties" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Settings.cs" t="Include" />
+        <e p="ui" t="Include">
+          <e p="CustomTextBox.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NSDMasterInventory.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
